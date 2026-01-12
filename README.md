@@ -1,7 +1,7 @@
  <!DOCTYPE html>
  <html>
  <head>
-     Advanced Title
+     <title>Advanced Title</title>
  </head>
  <body>
      <h1>Average Heading</h1>
